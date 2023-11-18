@@ -1,6 +1,6 @@
-# Frontend Mentor - Huddle landing page with single introductory section solution
+# Frontend Mentor - Order summary component
 
-#### Huddle landing page with single introductory section é um desafio do Frontend Mentor feito com HTML e CSS. Esse projeto, apresar de ser uma landing page simples, traz elementos bem interessantes nessas linguagens. Obrigado por chegar até aqui. Confira o código. ####
+#### Order summary component é um desafio do Frontend Mentor feito com HTML e CSS. Esse projeto, apresar de ser simples, traz elementos bem interessantes nessas linguagens. Obrigado por chegar até aqui. Confira o código. ####
 
 ## Índice
 
